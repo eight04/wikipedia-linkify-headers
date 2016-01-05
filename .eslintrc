@@ -1,0 +1,15 @@
+{
+	"extends": "eslint:recommended",
+	"env": {
+		"browser": true,
+		"es6": true
+	},
+	"globals": {
+		"RP": false,
+		"GM_addStyle": false
+	},
+	"rules": {
+		"eqeqeq": 0,
+		"global-strict": 0
+	}
+}

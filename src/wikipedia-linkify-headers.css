@@ -1,0 +1,9 @@
+.mw-headline-link {
+	font-size: 70%;
+	margin-left: 0.2em;
+	display: none;
+}
+
+.mw-headline:hover .mw-headline-link {
+	display: inline;
+}
