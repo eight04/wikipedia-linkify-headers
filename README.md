@@ -10,5 +10,7 @@ Install
 
 Changelog
 ---------
-* Version 0.1.0:
+* Version 0.1.1 (Jan 5, 2016):
+	- Change include rule.
+* Version 0.1.0 (Jan 5, 2016):
 	- First release.

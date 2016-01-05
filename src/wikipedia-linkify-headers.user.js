@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Wikipedia - Linkify headers
-// @version     0.1.0
+// @version     0.1.1
 // @namespace   eight04.blogspot.com
 // @description An userscript helping you get the url linking to specified section
-// @include     https://*wikipedia.org/wiki/*
+// @include     https://*wikipedia.org/*
 // @grant		GM_addStyle
 // @compatible  firefox
 // @compatible  chrome
