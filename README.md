@@ -1,6 +1,6 @@
 Wikipedia - linkify headers
 ===========================
-An userscript helping you get the url linking to specified section.
+An userscript helps you to get the url linking to specified section.
 
 ![preview image](https://i.imgur.com/CIJ2BLJ.png)
 
